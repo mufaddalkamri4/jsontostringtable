@@ -32,3 +32,15 @@ let people = [
 ];
 console.log(tablize(people));
 ```
+
+**Output**
+```
+--------------------------------------------
+| name       | email           | location  |
+--------------------------------------------
+| Jeetu      | jeetu@doodl.in  | Bangalore |
+| Gujju Bhai | gjcool@doodl.in | Surat     |
+| Naman      | upsc@doodl.in   | Jhansi    |
+| Takla      | taklu@doodl.in  | Orchha    |
+--------------------------------------------
+```
