@@ -1,9 +1,10 @@
 # jsontostringtable
 Convert your JSON Object Arrays to a String represented in a Table form that can be printed on Console.
-## Usage
-**Install the package**
+
+## Install with npm
 `npm install jsontostringtable --save`
 
+## Usage
 **Sample Code**
 ```javascript
 const tablize = require('jsontostringtable');
