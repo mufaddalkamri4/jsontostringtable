@@ -1,0 +1,19 @@
+{
+  "name": "jsontostringtable",
+  "version": "1.0.0",
+  "description": "Convert your JSON Object Arrays to a String represented in a Table format that can be printed on Console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mufaddalkamri4/jsontostringtable.git"
+  },
+  "author": "Mufaddal Kamri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mufaddalkamri4/jsontostringtable/issues"
+  },
+  "homepage": "https://github.com/mufaddalkamri4/jsontostringtable#readme"
+}
