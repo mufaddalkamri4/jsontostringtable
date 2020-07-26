@@ -1,7 +1,7 @@
 {
   "name": "jsontostringtable",
   "version": "1.0.2",
-  "description": "Convert your JSON Object Arrays to a String represented in a Table format that can be printed on Console.",
+  "description": "Convert your JSON Object Arrays to a String represented in a table format that can be printed on Console.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
