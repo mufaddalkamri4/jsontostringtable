@@ -16,6 +16,7 @@ let tablize = (objArr) => {
     let length = new Array(data[1].length).fill(0);
     for (let i = 1; i < data.length; i++) {
         for (let j = 0; j < data[1].length; j++) {
+            data[i][j] = String(data[i][j]);
             if (data[i][j].length > length[j]) {
                 length[j] = data[i][j].length;
             }
